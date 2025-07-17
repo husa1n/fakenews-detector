@@ -19,6 +19,10 @@ A machine learning web app that classifies news articles as fake or real using a
 - TfidfVectorizer
 
 ## How to run
+
+- Install dependencies:
+  pip install -r requirements.txt
+
 - start the backend(FastAPI)
 uvicorn main:app --reload
 
