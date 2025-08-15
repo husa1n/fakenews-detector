@@ -9,7 +9,7 @@ A machine learning web app that classifies news articles as fake or real using a
 - Backend API with FastAPI
 - Interactive frontend UI with Streamlit
 
-## Technologies Used
+## Libraries Used
 
 - Python
 - Scikit-learn
