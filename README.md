@@ -23,8 +23,8 @@ A machine learning web app that classifies news articles as fake or real using a
 - Install dependencies:
   pip install -r requirements.txt
 
-- start the backend(FastAPI)
-uvicorn main:app --reload
+- start the backend(FastAPI):
+  uvicorn main:app --reload
 
-- start the frontend(Streamlit)
-streamlit run app.py
+- start the frontend(Streamlit):
+  streamlit run app.py
